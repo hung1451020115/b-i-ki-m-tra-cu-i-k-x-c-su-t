@@ -1,0 +1,5 @@
+values=input("nhập họ và tên mã sinh viên")
+l=values.split(",")
+t=tuple(l)
+print (l)
+print (t)
